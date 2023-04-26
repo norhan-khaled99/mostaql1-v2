@@ -3,16 +3,6 @@ margin:0;
 padding:0;
 box-sizing:border-box;
 }
-/*
-.signup{
-border-radious:10px;
-background-image: linear-gradient( cornflowerblue,royalblue,#0818A8);
-}
-.signup label{
-margin-right:-150px;
-margin-left:80px;
-}
-*/
 
 /* CSS Styling for the signup form */
 .signup {
